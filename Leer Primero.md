@@ -2,7 +2,7 @@
 
 Repositorio con problemas con datos zero inflados
 
-## Cita recomendada para el dataset DMFT
+## Cita para los data sets: DMFT, Seguros, Injuries.
 
 ```bibtex
 @book{olga,
